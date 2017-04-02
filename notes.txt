@@ -1,0 +1,22 @@
+Fonts used
+-------------
+Where Used                    Font-Family                Size       Color
+Nav Bar                       OpenSans                  20px         #333333
+Showcase-Top                  OpenSans                               #ee2931
+Showcase-middle               OpenSans                                #333333
+Showcase-Bottom 4 icons       OpenSans                  24px         #ee2931
+Sidebar Buttons               ' '                       20px;         #ffffff
+Main Section Header             //" " red 42
+MS - UL                         ''                      18px          #333333
+MS - Bottom-4                                           24px red and #333333
+Footer Icons
+Footer small print
+
+
+
+
+
+Color Codes used
+-----------------------
+Where Used                Color Code
+All Reds                  #ee2931
